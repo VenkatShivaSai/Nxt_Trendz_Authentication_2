@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.bg-container-product {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-image {
+  width: 250px;
+  height: 250px;
+  margin-top: 50px;
+}
